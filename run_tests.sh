@@ -3,4 +3,4 @@
 cd $(dirname $0)
 . ./bin/activate
 
-py.test --junitxml=./test_output.xml test.py
+py.test --junitxml=./test_results.xml test.py
