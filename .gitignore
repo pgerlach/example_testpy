@@ -1,0 +1,4 @@
+setup/activate
+setup/python
+tests/test_results.xml
+tests/__pycache__/
